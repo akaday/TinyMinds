@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+Educational app for children to learn correct English pronunciation of basic concepts like letters, numbers, colors, shapes, and animals. Features an attractive interface and interactive game, with no login required. Developed using Flutter.
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/JustRana/TinyMinds/assets/108571071/158d5877-4c62-4961-b8d3-d06af5afc342)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

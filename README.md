@@ -5,7 +5,7 @@ An exciting Flutter-powered educational app designed to make learning fun and en
 
 ✨ What does Tiny Minds offer?
 
- • Learn Correct Pronunciation: Master the correct English pronunciation of:
+ Learn Correct Pronunciation: Master the correct English pronunciation of:
  
  • 📚 Letters
  
